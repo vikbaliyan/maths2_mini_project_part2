@@ -16,6 +16,7 @@ Ensure the following dependencies are installed before running VisualVortex:
 - TensorFlow
 - OpenCV
 - NumPy
+- Streamlit
 
 ### Installation and Running the App
 
